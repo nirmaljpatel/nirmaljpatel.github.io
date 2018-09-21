@@ -1,6 +1,8 @@
 Titanium Hacks
 
+*Alloy Migrations*
 https://medium.com/all-titanium/using-models-and-migrations-in-titanium-a03e3a6b0d6f
+
 When you are modifying an existing table, you need to do the following:
 
 Make sure your model reflects the final version of the table, including the fields you are adding.
